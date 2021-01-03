@@ -1,1 +1,1 @@
-# Not-Ortalamas-Python
+# Basit not ortalaması hesaplayıcı.
